@@ -4,18 +4,14 @@ import whatsappIcon from "../../assets/images/icons/whatsapp.svg";
 
 import "./styles.css"
 
-interface TeacherItemProps {
-
-}
-
 function TeacherItem() {
     return (
         <article className="teacher-item">
             <header>
-                <img src="https://i1.sndcdn.com/avatars-nKzbCyp7ygMKtzY6-K4sGig-t200x200.jpg" alt="Luís"/>
+                <img src="https://avatars1.githubusercontent.com/u/25934151?s=460&u=07de59de0364061d025d16ce8beda2274f3d4f46&v=4" alt="Vinicius"/>
                 <div>
-                    <strong>Luís Gustavo Búrigo</strong>
-                    <span>Matematica</span>
+                    <strong>Vinicius Spada Melo</strong>
+                    <span>Química</span>
                 </div>
             </header>
 

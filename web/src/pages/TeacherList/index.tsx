@@ -2,7 +2,7 @@ import React from "react";
 
 import PageHeader from "../../components/PageHeader";
 
-import whatsappIcon from "../../assets/images/icons/whatsapp.svg"
+import TeacherItem from "../../components/TeacherItem";
 
 import "./styles.css"
 
@@ -27,25 +27,11 @@ function TeatcherList() {
             </PageHeader>
 
             <main>
-                <article className="teacher-item">
-                    <header>
-                        <img src="https://avatars1.githubusercontent.com/u/25934151?s=460&u=07de59de0364061d025d16ce8beda2274f3d4f46&v=4" alt="Vinicius" />
-                        <div>
-                            <strong>Vinicius Melo</strong>
-                            <span>Quimica</span>
-                        </div>
-                    </header>
-
-                    <p>
-                        Professor de química
-                        <br />
-                        Muito bom.
-                    </p>
-                    <button type="button">
-                        <img src={whatsappIcon} alt="Whatsapp"/>
-                        Entrar em contato
-                    </button>
-                </article>
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
             </main>
         </div>
     )
