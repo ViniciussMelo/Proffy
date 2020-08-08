@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add axios
 
 PATH: 
   C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Wamp64\bin\php\php7.4.0;C:\ProgramData\ComposerSetup\bin;C:\ProgramData\chocolatey\bin;D:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Desenvolvimento\Android\Sdk\emulator;D:\Desenvolvimento\Android\Sdk\tools;D:\Desenvolvimento\Android\Sdk\tools\bin;D:\Desenvolvimento\Android\Sdk\platform-tools;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\vinic\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\vinic\AppData\Local\Microsoft\WindowsApps;C:\Users\vinic\AppData\Roaming\Composer\vendor\bin;C:\Users\vinic\AppData\Roaming\npm;C:\Users\vinic\AppData\Local\Yarn\bin;D:\Desenvolvimento\Microsoft VS Code\Microsoft VS Code\bin;C:\Users\vinic\AppData\Roaming\nvm;C:\Program Files\nodejs
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EPERM: operation not permitted, unlink 'D:\Cursos\RocketSeat\NLW\NLW_2\Proffy\mobile\node_modules\@babel\compat-data\node_modules\.bin'
+  Error: EPERM: operation not permitted, unlink 'D:\Cursos\RocketSeat\NLW\NLW_2\Proffy\mobile\node_modules\@react-native-community\masked-view\node_modules\.bin'
 
 npm manifest: 
   {
